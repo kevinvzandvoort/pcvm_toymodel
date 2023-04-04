@@ -1,2 +1,2 @@
-# pcvm_toymodel
-Toymodel using PCVm
+# pcvm_toy_model
+PCVm toy model
